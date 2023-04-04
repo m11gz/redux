@@ -1,2 +1,3 @@
-# redux
-learning/redux
+# Learning Redux
+ Here is my journal for redux. 
+ 
